@@ -76,15 +76,10 @@ Também aprendi JavaScript , que permite adicionar interatividade nas páginas. 
     <div class="projetos">
         <div class="projeto">
             <h3>Projeto 1: Calculadora Simples</h3>
-            <p>Uma calculadora feita com HTML, CSS e JavaScript que realiza operações básicas.</p>
-            <a href="https://github.com/seu-usuario/calculadora" target="_blank">Ver Projeto</a>
-        </div>
-        <div class="projeto">
+            <p>Uma calculadora feita com HTML, CSS e JavaScript que realiza operações básicas.Um aplicativo simples onde é possível adicionar, marcar como fazer contas no dia  dia. Feito com HTML, CSS e JavaScript..</p>
+          
             <h3>Projeto 2: Página de Cadastro</h3>
-            <p>Uma página de cadastro com validação de formulários usando JavaScript.</p>
-            <a href="https://github.com/seu-usuario/pagina-cadastro" target="_blank">Ver Projeto</a>
-        </div>
-    </div>
+            <p>Um aplicativo simples onde é possível adicionar, marcar como concluídas e remover tarefas do dia a dia. Feito com HTML, CSS e JavaScript.
 </section>
 
 </body>
