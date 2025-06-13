@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -58,7 +58,7 @@
 </header>
 
 <section>
-    <p>Olá! Meu nome é Antonella Sena Brogini. Sou estudante de desenvolvimento web e apaixonada por tecnologia e design. Estou aprendendo a criar sites usando HTML, CSS e JavaScript.</p>
+    <p>Olá! Meu nome é Antonella Sena Brogini, tenho 16 anos e estudo na escola PEI Professor Jacomo Stavale. Sou estudante de desenvolvimento web e apaixonada por tecnologia e design. Estou aprendendo a criar sites usando HTML, CSS e JavaScript.</p>
 </section>
 
 <section>
@@ -67,8 +67,9 @@
         <li>HTML</li>
         <li>JavaScript</li>
     </ul>
-    <p>Aprendi a estruturar páginas com HTML e adicionar interatividade com JavaScript. Também explorei conceitos como listas, links, elementos de formulário e funções básicas em JS.</p>
-</section>
+    <p>Aprendi os fundamentos do HTML , que é uma linguagem usada para estruturar páginas na internet. Agora sei como criar textos, imagens, listas, links, formulários e organizar tudo com uma boa estrutura semântica, facilitando tanto o entendimento do usuário quanto a acessibilidade.
+
+Também aprendi JavaScript , que permite adicionar interatividade nas páginas. Com ele, consegui entender como usar variáveis, funções, eventos e como manipular elementos do HTML usando o DOM. Com isso, posso criar aplicativos que reagem às ações dos usuários e deixam a experiência mais dinâmica.
 
 <section>
     <h2>Meus projetos</h2>
@@ -88,17 +89,5 @@
 
 </body>
 </html>
-<!--
-**nellabgg/nellabgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
